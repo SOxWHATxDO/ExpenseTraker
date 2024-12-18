@@ -2,9 +2,7 @@
 #include <fstream>
 #include <vector>
 #include <string>
-#include <iomanip>
 #include <sstream>
-#include <ctime>
 #include <Windows.h>
 
 using namespace std;
